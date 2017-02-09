@@ -1,0 +1,41 @@
+body{
+	background-image: url(resources/images/taraa.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.label{
+	font-size: 60px;
+	color: rgb(255,255,255);
+	
+}
+.kevo{
+	font-size: 30px;
+	color: rgb(255,100,255);
+}
+.siam{
+	text-align: center;
+
+}
+.deadpool{
+	text-align: center;
+	padding-top: 50px;
+	color: rgb(255,0,150);
+}
+.joker{
+	font-size: 50px;
+	color: rgb(255,100,255);
+}
+.flash{
+	font-size: 20px;
+	font-style: italic;
+	color: white;
+}
+.marvel{
+	font-size: 30px;
+	color: rgb(255,255,255);
+}
+.moana{
+	text-align: justify;
+	font-weight: 30px;
+	color: rgb(255,255,255);
+}
