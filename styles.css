@@ -28,7 +28,8 @@ body{
 .flash{
 	font-size: 20px;
 	font-style: italic;
-	color: white;
+	color: black;
+	background: rgb(128,128,128);
 }
 .marvel{
 	font-size: 30px;
