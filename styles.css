@@ -40,9 +40,3 @@ body{
 	font-weight: 30px;
 	color: rgb(255,255,255);
 }
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%; 
-    min-height: 100%;
